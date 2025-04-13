@@ -1,3 +1,4 @@
+steps:
 1. Install Java, Maven, Intellij
 2. Create account on docker hub and Install Docker Desktop - Docker Runtime Engine
 3. Create Springboot application
